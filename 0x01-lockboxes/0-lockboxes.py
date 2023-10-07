@@ -3,7 +3,7 @@
 
 
 def canUnlockAll(boxes):
-    """ Lockboxes """
+    """ Function that solves the Lockboxes """
     keys = [0]
     for key in keys:
         for box in boxes[key]:
